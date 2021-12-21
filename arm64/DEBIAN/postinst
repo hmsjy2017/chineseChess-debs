@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Making binary executable..."
+chmod +x /usr/bin/chinesechess || true
