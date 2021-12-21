@@ -1,0 +1,14 @@
+[Desktop Entry]
+Categories=Application;System;Settings
+Comment=Deepin Desktop Environment Control Center
+Encoding=UTF-8
+Exec=/opt/ChinessChess/ChineseChess
+Icon=/opt/ChinessChess/cc.jpg
+Name=ChineseChess
+GenericName=ChineseChess_zh
+OnlyShowIn=Deepin
+StartupNotify=false
+Terminal=false
+Type=Application
+X-MultipleArgs=false
+X-Deepin-Vendor=deepin
