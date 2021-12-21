@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/chinesechess
+Hidden=false
+NoDisplay=false
+Name=ChineseChess
+Icon=/usr/share/icons/ChineseChess/cc.png
+Categories=Game

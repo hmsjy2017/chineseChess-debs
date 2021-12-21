@@ -1,8 +1,9 @@
 Package: chinesechess
-Version: 5.8.3+
+Version: 5.8.3+raspaddons1
 Architecture: arm64
 Priority: optional
 Section: games
+Depends: libqt5multimedia5
 Maintainer: Junyi Shi <hmsjy2019@gmail.com>
 Homepage: https://github.com/xmuli/chinessChess
 Description: Cross-platform and online battle platform game based on Qt: Chinese Chess
