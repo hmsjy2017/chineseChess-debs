@@ -1,6 +1,6 @@
 Package: chinesechess
 Version: 6.0
-Architecture: arm64
+Architecture: armhf
 Priority: optional
 Section: games
 Depends: libqt5multimedia5
